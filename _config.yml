@@ -9,7 +9,7 @@ name: Mercury Retro
 description: Rad Web Developer from Somewhere
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: /images/Mercury_Retro_logo.svg
+avatar: ../images/Mercury_Retro_logo.svg
 
 #
 # Flags below are optional
