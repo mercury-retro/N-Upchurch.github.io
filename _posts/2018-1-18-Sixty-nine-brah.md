@@ -3,7 +3,7 @@ layout: post
 title: Sixty nine brah
 ---
 
-# Sixty nineeee bro
+## Sixty nineeee bro
 
 | title | title2 |
 | ----- | ------ |
