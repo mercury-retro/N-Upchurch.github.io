@@ -84,7 +84,7 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
-  - [vendor]
+  - vendor
 
 theme: jekyll-theme-minimal
 
